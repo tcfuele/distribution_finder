@@ -10,8 +10,9 @@ I will continue to work on this in my free time, connecting the pure parameter s
 
 - Maxwell Jüttner Data Sampler ✓
 - Plot particles in momentum space ✓
-- Update Explanation for physics
-- Document steps until now better
+- Update Explanation for physics ✓
+- Document steps until now better ✓
+- Plot momentum in space ✓
 - Plot distribution function
 - Distort momentum space to incorporate either Bulk or shear stress transformation
 - Plot distribution function again
