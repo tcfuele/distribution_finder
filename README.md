@@ -13,6 +13,7 @@ I will continue to work on this in my free time, connecting the pure parameter s
 - Update Explanation for physics ✓
 - Document steps until now better ✓
 - Plot momentum in space ✓
+- Calculate the energy-momentum tensor ✓
 - Plot distribution function
 - Distort momentum space to incorporate either Bulk or shear stress transformation
 - Plot distribution function again
